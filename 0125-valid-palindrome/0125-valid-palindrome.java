@@ -3,8 +3,9 @@ class Solution {
         s=s.toLowerCase();
         String check="";
         for(int i=0 ; i<s.length() ; i++){
-            if(Character.isLetterOrDigit(s.charAt(i)))
-            check+=s.charAt(i);
+            char temp = s.charAt(i);
+            if(Character.isLetterOrDigit(temp))
+            check+=temp;
         }
         int flag=1;
 
