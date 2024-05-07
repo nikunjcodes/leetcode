@@ -3,8 +3,8 @@ class Solution {
         s=s.toLowerCase();
         String check="";
         for(int i=0 ; i<s.length() ; i++){
-            if(s.charAt(i)>=97 && s.charAt(i)<=122 || ((s.charAt(i)>=48)&& s.charAt(i)<=57))
-                check+=s.charAt(i);
+            if(Character.isLetterOrDigit(s.charAt(i)))
+            check+=s.charAt(i);
         }
         int flag=1;
 
