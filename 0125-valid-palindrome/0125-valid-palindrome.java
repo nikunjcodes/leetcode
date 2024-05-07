@@ -7,8 +7,7 @@ class Solution {
                 check+=s.charAt(i);
         }
         int flag=1;
-        if(check.length()==1)
-            return true;
+
         
         for(int i=0 ; i<check.length()/2; i++){
             if(check.charAt(i)==check.charAt(check.length()-i-1))
@@ -20,9 +19,7 @@ class Solution {
         }
         if(flag==1)
         return true;
-        else if(flag==0)
-            return false;
         else
-            return true;
+            return false;
     }
 }
