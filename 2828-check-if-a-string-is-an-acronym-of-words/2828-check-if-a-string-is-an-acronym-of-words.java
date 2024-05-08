@@ -1,12 +1,13 @@
 class Solution {
     public boolean isAcronym(List<String> words, String s) {
-        String acr = "";
-        for(String str : words){
-            acr+=str.charAt(0);
+        if(words.size() != s.length())
+                return false;
+        else{
+            for(int i=0 ; i<s.length() ; i++){
+                if(words.get(i).charAt(0)!=s.charAt(i))
+                    return false;
+            }
         }
-        if(acr.equals(s))
-            return true;
-        else
-            return false;
+        return true;
     }
 }
