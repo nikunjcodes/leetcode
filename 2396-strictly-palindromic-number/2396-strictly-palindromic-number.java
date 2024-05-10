@@ -1,26 +1,12 @@
 class Solution {
 static boolean convertToBase(int N,int b){
-        String result = "";
-        int flag=0;
-        while(N>0){
-            int rem = N%b;
-            N = N/b;
-            result = rem + result;
-        }
+        String result =Integer.toString(N,b);
         for(int i =0 ; i<result.length()/2 ; i++){
-            
-            if(result.charAt(i)==result.charAt(result.length()-1))
-                flag=1;
-            else{
-                flag=0;
-                break;
-            }
-        }
-        if(flag==0)
-            return false;
-        else
-            return true;
+            if(!(result.charAt(i)==result.charAt(result.length()-1)))
+                return false;  
     }
+    return true;
+}
 
     public boolean isStrictlyPalindromic(int n) {
         for(int i =2 ; i<=n-2 ; i++){
