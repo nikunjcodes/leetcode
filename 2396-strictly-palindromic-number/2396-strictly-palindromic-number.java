@@ -23,14 +23,11 @@ static boolean convertToBase(int N,int b){
     }
 
     public boolean isStrictlyPalindromic(int n) {
-        int c =0 ;
         for(int i =2 ; i<=n-2 ; i++){
-            if(convertToBase(n,i))
-                c++;
-            else{
+            if(!convertToBase(n,i))
                 return false;
             }
-        }
+        
         return true;
 
     }
