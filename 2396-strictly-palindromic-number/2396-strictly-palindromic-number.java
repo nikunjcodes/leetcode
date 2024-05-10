@@ -28,13 +28,10 @@ static boolean convertToBase(int N,int b){
             if(convertToBase(n,i))
                 c++;
             else{
-                c=0;
-                break;
+                return false;
             }
         }
-        if(c==0)
-            return(false);
-        else
-            return true;
+        return true;
+
     }
 }
