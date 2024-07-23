@@ -21,10 +21,10 @@ class Solution {
                 helper(n,ans,temp);
             }
             else{
-                String temp1= temp+"1";
-                helper(n,ans,temp1);
-                temp = temp+"0";
-                helper(n,ans,temp);
+               
+                helper(n,ans,temp+"1");
+                
+                helper(n,ans,temp+"0");
             }
         }
     }
