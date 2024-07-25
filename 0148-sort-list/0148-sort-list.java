@@ -29,22 +29,25 @@ class Solution {
     }
     
     static ListNode merge(ListNode l, ListNode r) {
-        if (l == null) {
-            return r;
+        ListNode temp = new ListNode(0);
+        ListNode current = temp;
+        while(l!=null && r!=null){
+            if(l.val <=r.val){
+                current.next = l;
+                l=l.next;
+            }
+            else{
+                current.next = r;
+                r=r.next;
+            }
+            current = current.next;
         }
-        if (r == null) {
-            return l;
+        if(l!=null){
+            current.next = l;
         }
-        
-        ListNode result;
-        if (l.val <= r.val) {
-                result = l;
-             result.next = merge(l.next, r);
-        } else {
-             result = r;
-                result.next = merge(l, r.next);
-        }
-        return result;
+        else if (r!=null)
+            current.next = r;
+        return temp.next;
     }
     
     static ListNode getMid(ListNode node) {
