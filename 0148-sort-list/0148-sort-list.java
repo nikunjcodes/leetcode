@@ -25,8 +25,7 @@ class Solution {
         middle.next = null;
         ListNode left = mergeSort(head);
         ListNode right = mergeSort(next);
-        ListNode sorted = merge(left, right);
-        return sorted;
+        return merge(left, right);
     }
     
     static ListNode merge(ListNode l, ListNode r) {
