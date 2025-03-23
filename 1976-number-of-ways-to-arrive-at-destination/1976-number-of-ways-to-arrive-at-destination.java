@@ -1,0 +1,64 @@
+class Solution {
+    private static final int MOD = 1000000007;
+	
+	public int countPaths(int n, int[][] roads) 
+	{
+		List<List<long[]>> adjList = new ArrayList<>();
+		
+		for(int i=0;i<n;i++)
+		{
+			adjList.add(new ArrayList<>());
+		}
+		
+		for(int road[]: roads)
+		{
+			adjList.get(road[0]).add(new long[]{road[1], road[2]});
+			adjList.get(road[1]).add(new long[]{road[0], road[2]});
+		}
+		
+		PriorityQueue<long[]> minheap = new PriorityQueue<long[]>(Comparator.comparing(a -> a[0]));
+		minheap.offer(new long[]{0,0}); 
+		
+		boolean processed[] = new boolean[n];
+		
+		long[] countWays = new long[n]; 
+		countWays[0]=1; 
+		long[] minCost = new long[n];
+		
+		Arrays.fill(minCost, Long.MAX_VALUE);
+		minCost[0]=0;
+		
+		while(!minheap.isEmpty())
+		{
+			long[] curr = minheap.poll();
+			long cost = curr[0];
+			int currNode = (int)curr[1];
+			
+			if(processed[currNode]) continue;
+			processed[currNode] = true;
+			
+			for(long[] neighbour: adjList.get(currNode))
+			{
+				int nbr = (int)neighbour[0];
+				long weight = neighbour[1];
+				
+				if(!processed[nbr]) 
+				{
+					if(cost+weight == minCost[nbr])
+					{
+						countWays[nbr] = (countWays[nbr] + countWays[currNode]) % MOD;
+					}
+					
+					else if(cost+weight < minCost[nbr])
+					{
+						minCost[nbr] = cost+weight;
+						countWays[nbr] = countWays[currNode];
+						minheap.offer(new long[]{minCost[nbr], nbr});
+					}
+				}
+			}			
+		}
+		
+        return (int)countWays[n-1];
+    }
+}
