@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nikunjcodes/leetcode/tree/master/0049-group-anagrams) |
+| [0304-range-sum-query-2d-immutable](https://github.com/nikunjcodes/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikunjcodes/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nikunjcodes/leetcode/tree/master/0049-group-anagrams) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/nikunjcodes/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/nikunjcodes/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/nikunjcodes/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
