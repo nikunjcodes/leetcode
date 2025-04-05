@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/nikunjcodes/leetcode/tree/master/0525-contiguous-array) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nikunjcodes/leetcode/tree/master/0049-group-anagrams) |
 | [0304-range-sum-query-2d-immutable](https://github.com/nikunjcodes/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/nikunjcodes/leetcode/tree/master/0525-contiguous-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikunjcodes/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikunjcodes/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
@@ -76,4 +79,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/nikunjcodes/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/nikunjcodes/leetcode/tree/master/0525-contiguous-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
