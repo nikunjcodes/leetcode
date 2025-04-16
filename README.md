@@ -19,21 +19,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Array
 |  |
 | ------- |
