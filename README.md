@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/nikunjcodes/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/nikunjcodes/leetcode/tree/master/0049-group-anagrams) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikunjcodes/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
