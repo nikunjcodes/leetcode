@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Array
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
+| [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -194,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
