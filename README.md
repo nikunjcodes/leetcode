@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/nikunjcodes/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nikunjcodes/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nikunjcodes/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nikunjcodes/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Design
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nikunjcodes/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/nikunjcodes/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
 | [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nikunjcodes/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
