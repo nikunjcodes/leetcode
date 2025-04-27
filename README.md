@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/nikunjcodes/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/nikunjcodes/leetcode/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/nikunjcodes/leetcode/tree/master/0390-elimination-game) |
 | [0797-rabbits-in-forest](https://github.com/nikunjcodes/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/nikunjcodes/leetcode/tree/master/1500-count-largest-group) |
@@ -336,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nikunjcodes/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/nikunjcodes/leetcode/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
