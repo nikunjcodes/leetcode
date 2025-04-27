@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/nikunjcodes/leetcode/tree/master/0525-contiguous-array) |
 | [0797-rabbits-in-forest](https://github.com/nikunjcodes/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0940-fruit-into-baskets](https://github.com/nikunjcodes/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1023-time-based-key-value-store](https://github.com/nikunjcodes/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/nikunjcodes/leetcode/tree/master/0525-contiguous-array) |
 | [0797-rabbits-in-forest](https://github.com/nikunjcodes/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/nikunjcodes/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/nikunjcodes/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikunjcodes/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/nikunjcodes/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/nikunjcodes/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikunjcodes/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
