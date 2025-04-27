@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
 | [1020-longest-turbulent-subarray](https://github.com/nikunjcodes/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikunjcodes/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1656-count-good-triplets](https://github.com/nikunjcodes/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikunjcodes/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2249-count-the-hidden-sequences](https://github.com/nikunjcodes/leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/nikunjcodes/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/nikunjcodes/leetcode/tree/master/0525-contiguous-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikunjcodes/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2249-count-the-hidden-sequences](https://github.com/nikunjcodes/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Sliding Window
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1020-longest-turbulent-subarray](https://github.com/nikunjcodes/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikunjcodes/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nikunjcodes/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
