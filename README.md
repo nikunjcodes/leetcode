@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/nikunjcodes/leetcode/tree/master/0143-reorder-list) |
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nikunjcodes/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikunjcodes/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0143-reorder-list](https://github.com/nikunjcodes/leetcode/tree/master/0143-reorder-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/nikunjcodes/leetcode/tree/master/0143-reorder-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Queue
 |  |
@@ -340,5 +343,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/nikunjcodes/leetcode/tree/master/0143-reorder-list) |
 | [0390-elimination-game](https://github.com/nikunjcodes/leetcode/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
