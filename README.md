@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikunjcodes/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0868-push-dominoes](https://github.com/nikunjcodes/leetcode/tree/master/0868-push-dominoes) |
 | [1023-time-based-key-value-store](https://github.com/nikunjcodes/leetcode/tree/master/1023-time-based-key-value-store) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/nikunjcodes/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/nikunjcodes/leetcode/tree/master/0143-reorder-list) |
+| [0868-push-dominoes](https://github.com/nikunjcodes/leetcode/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nikunjcodes/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/nikunjcodes/leetcode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/nikunjcodes/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nikunjcodes/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/nikunjcodes/leetcode/tree/master/0868-push-dominoes) |
 | [1020-longest-turbulent-subarray](https://github.com/nikunjcodes/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nikunjcodes/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
