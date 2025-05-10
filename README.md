@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nikunjcodes/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nikunjcodes/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nikunjcodes/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikunjcodes/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikunjcodes/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nikunjcodes/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nikunjcodes/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Binary Search
 |  |
 | ------- |
