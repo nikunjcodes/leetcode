@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nikunjcodes/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/nikunjcodes/leetcode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/nikunjcodes/leetcode/tree/master/0090-subsets-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/nikunjcodes/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0368-largest-divisible-subset](https://github.com/nikunjcodes/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nikunjcodes/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/nikunjcodes/leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/nikunjcodes/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nikunjcodes/leetcode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/nikunjcodes/leetcode/tree/master/0143-reorder-list) |
 | [0868-push-dominoes](https://github.com/nikunjcodes/leetcode/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
