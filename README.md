@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/nikunjcodes/leetcode/tree/master/0384-shuffle-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/nikunjcodes/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0525-contiguous-array](https://github.com/nikunjcodes/leetcode/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nikunjcodes/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0797-rabbits-in-forest](https://github.com/nikunjcodes/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/nikunjcodes/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/nikunjcodes/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1023-time-based-key-value-store](https://github.com/nikunjcodes/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikunjcodes/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikunjcodes/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
