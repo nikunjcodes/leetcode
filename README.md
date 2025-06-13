@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikunjcodes/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nikunjcodes/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nikunjcodes/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/nikunjcodes/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nikunjcodes/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/nikunjcodes/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikunjcodes/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nikunjcodes/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nikunjcodes/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Stack
 |  |
 | ------- |
