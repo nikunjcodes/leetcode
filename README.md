@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/nikunjcodes/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nikunjcodes/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/nikunjcodes/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nikunjcodes/leetcode/tree/master/0127-word-ladder) |
 | [0508-most-frequent-subtree-sum](https://github.com/nikunjcodes/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/nikunjcodes/leetcode/tree/master/0525-contiguous-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nikunjcodes/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikunjcodes/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0126-word-ladder-ii](https://github.com/nikunjcodes/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nikunjcodes/leetcode/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/nikunjcodes/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikunjcodes/leetcode/tree/master/0210-course-schedule-ii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/nikunjcodes/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/nikunjcodes/leetcode/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/nikunjcodes/leetcode/tree/master/0126-word-ladder-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikunjcodes/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/nikunjcodes/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/nikunjcodes/leetcode/tree/master/0049-group-anagrams) |
+| [0126-word-ladder-ii](https://github.com/nikunjcodes/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nikunjcodes/leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
