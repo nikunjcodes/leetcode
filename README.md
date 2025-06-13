@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikunjcodes/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/nikunjcodes/leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/nikunjcodes/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/nikunjcodes/leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikunjcodes/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nikunjcodes/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -557,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/nikunjcodes/leetcode/tree/master/0386-lexicographical-numbers) |
+## String Matching
+|  |
+| ------- |
+| [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/nikunjcodes/leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 <!---LeetCode Topics End-->
