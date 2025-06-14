@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikunjcodes/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/nikunjcodes/leetcode/tree/master/3321-type-of-triangle) |
 | [3527-alternating-groups-iii](https://github.com/nikunjcodes/leetcode/tree/master/3527-alternating-groups-iii) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/nikunjcodes/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/nikunjcodes/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nikunjcodes/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/nikunjcodes/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/nikunjcodes/leetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3548-find-the-count-of-good-integers](https://github.com/nikunjcodes/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/nikunjcodes/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nikunjcodes/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/nikunjcodes/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0945-snakes-and-ladders](https://github.com/nikunjcodes/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/nikunjcodes/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/nikunjcodes/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikunjcodes/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nikunjcodes/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikunjcodes/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/nikunjcodes/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikunjcodes/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/nikunjcodes/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/nikunjcodes/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikunjcodes/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
