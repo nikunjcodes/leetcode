@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/nikunjcodes/leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/nikunjcodes/leetcode/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikunjcodes/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2276-groups-of-strings](https://github.com/nikunjcodes/leetcode/tree/master/2276-groups-of-strings) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikunjcodes/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/nikunjcodes/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Combinatorics
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/nikunjcodes/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikunjcodes/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikunjcodes/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2276-groups-of-strings](https://github.com/nikunjcodes/leetcode/tree/master/2276-groups-of-strings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikunjcodes/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikunjcodes/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/nikunjcodes/leetcode/tree/master/3194-find-words-containing-character) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikunjcodes/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
+| [2276-groups-of-strings](https://github.com/nikunjcodes/leetcode/tree/master/2276-groups-of-strings) |
 ## Graph
 |  |
 | ------- |
