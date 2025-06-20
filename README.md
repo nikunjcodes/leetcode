@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nikunjcodes/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikunjcodes/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikunjcodes/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/nikunjcodes/leetcode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/nikunjcodes/leetcode/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Tree
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikunjcodes/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nikunjcodes/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikunjcodes/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/nikunjcodes/leetcode/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nikunjcodes/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikunjcodes/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikunjcodes/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nikunjcodes/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/nikunjcodes/leetcode/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikunjcodes/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikunjcodes/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikunjcodes/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/nikunjcodes/leetcode/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Simulation
 |  |
