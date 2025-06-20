@@ -603,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/nikunjcodes/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nikunjcodes/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
