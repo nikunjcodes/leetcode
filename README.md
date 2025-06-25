@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nikunjcodes/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nikunjcodes/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nikunjcodes/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nikunjcodes/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/nikunjcodes/leetcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/nikunjcodes/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/nikunjcodes/leetcode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/nikunjcodes/leetcode/tree/master/0126-word-ladder-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikunjcodes/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nikunjcodes/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/nikunjcodes/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunjcodes/leetcode/tree/master/0213-house-robber-ii) |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nikunjcodes/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikunjcodes/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
