@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/nikunjcodes/leetcode/tree/master/1656-count-good-triplets) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nikunjcodes/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikunjcodes/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/nikunjcodes/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2048-build-array-from-permutation](https://github.com/nikunjcodes/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikunjcodes/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nikunjcodes/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nikunjcodes/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikunjcodes/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nikunjcodes/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/nikunjcodes/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikunjcodes/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nikunjcodes/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
