@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikunjcodes/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nikunjcodes/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1380-number-of-closed-islands](https://github.com/nikunjcodes/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikunjcodes/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nikunjcodes/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1380-number-of-closed-islands](https://github.com/nikunjcodes/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/nikunjcodes/leetcode/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nikunjcodes/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/nikunjcodes/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1380-number-of-closed-islands](https://github.com/nikunjcodes/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nikunjcodes/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikunjcodes/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nikunjcodes/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/nikunjcodes/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0945-snakes-and-ladders](https://github.com/nikunjcodes/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/nikunjcodes/leetcode/tree/master/1380-number-of-closed-islands) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/nikunjcodes/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/nikunjcodes/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikunjcodes/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -588,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikunjcodes/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/nikunjcodes/leetcode/tree/master/1380-number-of-closed-islands) |
 | [2276-groups-of-strings](https://github.com/nikunjcodes/leetcode/tree/master/2276-groups-of-strings) |
 ## Graph
 |  |
