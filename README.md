@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-complete-binary-tree-inserter](https://github.com/nikunjcodes/leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/nikunjcodes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikunjcodes/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikunjcodes/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nikunjcodes/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/nikunjcodes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikunjcodes/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikunjcodes/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nikunjcodes/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/nikunjcodes/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0955-complete-binary-tree-inserter](https://github.com/nikunjcodes/leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikunjcodes/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nikunjcodes/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-complete-binary-tree-inserter](https://github.com/nikunjcodes/leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/nikunjcodes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikunjcodes/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikunjcodes/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nikunjcodes/leetcode/tree/master/1254-deepest-leaves-sum) |
