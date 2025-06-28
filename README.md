@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/nikunjcodes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikunjcodes/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikunjcodes/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nikunjcodes/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/nikunjcodes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikunjcodes/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikunjcodes/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nikunjcodes/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-complete-binary-tree-inserter](https://github.com/nikunjcodes/leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikunjcodes/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nikunjcodes/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/nikunjcodes/leetcode/tree/master/1731-even-odd-tree) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/nikunjcodes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikunjcodes/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikunjcodes/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikunjcodes/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nikunjcodes/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
