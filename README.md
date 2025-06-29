@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/nikunjcodes/leetcode/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0319-bulb-switcher](https://github.com/nikunjcodes/leetcode/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/nikunjcodes/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/nikunjcodes/leetcode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/nikunjcodes/leetcode/tree/master/0390-elimination-game) |
@@ -677,4 +678,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/nikunjcodes/leetcode/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/nikunjcodes/leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/nikunjcodes/leetcode/tree/master/0178-rank-scores) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/nikunjcodes/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
