@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/nikunjcodes/leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/nikunjcodes/leetcode/tree/master/0955-complete-binary-tree-inserter) |
+| [1040-maximum-binary-tree-ii](https://github.com/nikunjcodes/leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/nikunjcodes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikunjcodes/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/nikunjcodes/leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/nikunjcodes/leetcode/tree/master/0955-complete-binary-tree-inserter) |
+| [1040-maximum-binary-tree-ii](https://github.com/nikunjcodes/leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/nikunjcodes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikunjcodes/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
