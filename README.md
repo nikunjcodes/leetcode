@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nikunjcodes/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/nikunjcodes/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nikunjcodes/leetcode/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/nikunjcodes/leetcode/tree/master/0242-valid-anagram) |
 | [0508-most-frequent-subtree-sum](https://github.com/nikunjcodes/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/nikunjcodes/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/nikunjcodes/leetcode/tree/master/0525-contiguous-array) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nikunjcodes/leetcode/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/nikunjcodes/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nikunjcodes/leetcode/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/nikunjcodes/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0420-strong-password-checker](https://github.com/nikunjcodes/leetcode/tree/master/0420-strong-password-checker) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/nikunjcodes/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nikunjcodes/leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/nikunjcodes/leetcode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/nikunjcodes/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
