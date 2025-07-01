@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/nikunjcodes/leetcode/tree/master/0687-longest-univalue-path) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/nikunjcodes/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikunjcodes/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/nikunjcodes/leetcode/tree/master/0832-binary-tree-pruning) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikunjcodes/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/nikunjcodes/leetcode/tree/master/0744-network-delay-time) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/nikunjcodes/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/nikunjcodes/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0955-complete-binary-tree-inserter](https://github.com/nikunjcodes/leetcode/tree/master/0955-complete-binary-tree-inserter) |
