@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/nikunjcodes/leetcode/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/nikunjcodes/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikunjcodes/leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/nikunjcodes/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikunjcodes/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/nikunjcodes/leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/nikunjcodes/leetcode/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/nikunjcodes/leetcode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/nikunjcodes/leetcode/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/nikunjcodes/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/nikunjcodes/leetcode/tree/master/0384-shuffle-an-array) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/nikunjcodes/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunjcodes/leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/nikunjcodes/leetcode/tree/master/0279-perfect-squares) |
 | [0337-house-robber-iii](https://github.com/nikunjcodes/leetcode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/nikunjcodes/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nikunjcodes/leetcode/tree/master/0416-partition-equal-subset-sum) |
