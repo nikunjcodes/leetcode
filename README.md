@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nikunjcodes/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/nikunjcodes/leetcode/tree/master/0337-house-robber-iii) |
+| [0365-water-and-jug-problem](https://github.com/nikunjcodes/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/nikunjcodes/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/nikunjcodes/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikunjcodes/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nikunjcodes/leetcode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/nikunjcodes/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/nikunjcodes/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikunjcodes/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/nikunjcodes/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikunjcodes/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/nikunjcodes/leetcode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/nikunjcodes/leetcode/tree/master/0319-bulb-switcher) |
+| [0365-water-and-jug-problem](https://github.com/nikunjcodes/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/nikunjcodes/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/nikunjcodes/leetcode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/nikunjcodes/leetcode/tree/master/0390-elimination-game) |
