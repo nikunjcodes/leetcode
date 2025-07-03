@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/nikunjcodes/leetcode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/nikunjcodes/leetcode/tree/master/0390-elimination-game) |
 | [0523-continuous-subarray-sum](https://github.com/nikunjcodes/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0795-k-th-symbol-in-grammar](https://github.com/nikunjcodes/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/nikunjcodes/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/nikunjcodes/leetcode/tree/master/0909-stone-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/nikunjcodes/leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/nikunjcodes/leetcode/tree/master/0090-subsets-ii) |
+| [0795-k-th-symbol-in-grammar](https://github.com/nikunjcodes/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikunjcodes/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2276-groups-of-strings](https://github.com/nikunjcodes/leetcode/tree/master/2276-groups-of-strings) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikunjcodes/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/nikunjcodes/leetcode/tree/master/0143-reorder-list) |
 | [0390-elimination-game](https://github.com/nikunjcodes/leetcode/tree/master/0390-elimination-game) |
+| [0795-k-th-symbol-in-grammar](https://github.com/nikunjcodes/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0930-all-possible-full-binary-trees](https://github.com/nikunjcodes/leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikunjcodes/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
