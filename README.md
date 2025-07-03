@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nikunjcodes/leetcode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/nikunjcodes/leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikunjcodes/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/nikunjcodes/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunjcodes/leetcode/tree/master/0213-house-robber-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/nikunjcodes/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nikunjcodes/leetcode/tree/master/0035-search-insert-position) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikunjcodes/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikunjcodes/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/nikunjcodes/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/nikunjcodes/leetcode/tree/master/0794-swim-in-rising-water) |
