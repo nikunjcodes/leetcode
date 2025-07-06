@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2384-root-equals-sum-of-children](https://github.com/nikunjcodes/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikunjcodes/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikunjcodes/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/nikunjcodes/leetcode/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/nikunjcodes/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikunjcodes/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikunjcodes/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2384-root-equals-sum-of-children](https://github.com/nikunjcodes/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikunjcodes/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Array
