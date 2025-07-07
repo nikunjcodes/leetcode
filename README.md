@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/nikunjcodes/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/nikunjcodes/leetcode/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/nikunjcodes/leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/nikunjcodes/leetcode/tree/master/0264-ugly-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0508-most-frequent-subtree-sum](https://github.com/nikunjcodes/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/nikunjcodes/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/nikunjcodes/leetcode/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0264-ugly-number-ii](https://github.com/nikunjcodes/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/nikunjcodes/leetcode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/nikunjcodes/leetcode/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/nikunjcodes/leetcode/tree/master/0365-water-and-jug-problem) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/nikunjcodes/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunjcodes/leetcode/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/nikunjcodes/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/nikunjcodes/leetcode/tree/master/0279-perfect-squares) |
 | [0337-house-robber-iii](https://github.com/nikunjcodes/leetcode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/nikunjcodes/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/nikunjcodes/leetcode/tree/master/0264-ugly-number-ii) |
 | [0420-strong-password-checker](https://github.com/nikunjcodes/leetcode/tree/master/0420-strong-password-checker) |
 | [0744-network-delay-time](https://github.com/nikunjcodes/leetcode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikunjcodes/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
