@@ -5,9 +5,8 @@ class Solution {
         int curr=0;
         for(int[] customer : customers){
             int start = Math.max(curr , customer[0]);
-            int completion = start + customer[1];
+              curr = start + customer[1];
             double wt = start - customer[0];
-            curr = completion;
             ans+= wt + customer[1];
         }
         return ans/num;
