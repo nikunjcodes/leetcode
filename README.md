@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikunjcodes/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/nikunjcodes/leetcode/tree/master/1656-count-good-triplets) |
 | [1753-path-with-minimum-effort](https://github.com/nikunjcodes/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1803-average-waiting-time](https://github.com/nikunjcodes/leetcode/tree/master/1803-average-waiting-time) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nikunjcodes/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikunjcodes/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/nikunjcodes/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1803-average-waiting-time](https://github.com/nikunjcodes/leetcode/tree/master/1803-average-waiting-time) |
 | [2048-build-array-from-permutation](https://github.com/nikunjcodes/leetcode/tree/master/2048-build-array-from-permutation) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikunjcodes/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
