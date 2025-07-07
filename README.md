@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nikunjcodes/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikunjcodes/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2276-groups-of-strings](https://github.com/nikunjcodes/leetcode/tree/master/2276-groups-of-strings) |
+| [2470-removing-stars-from-a-string](https://github.com/nikunjcodes/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikunjcodes/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikunjcodes/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/nikunjcodes/leetcode/tree/master/3194-find-words-containing-character) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikunjcodes/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2470-removing-stars-from-a-string](https://github.com/nikunjcodes/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/nikunjcodes/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nikunjcodes/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/nikunjcodes/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2470-removing-stars-from-a-string](https://github.com/nikunjcodes/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikunjcodes/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
