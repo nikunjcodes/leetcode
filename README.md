@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikunjcodes/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikunjcodes/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikunjcodes/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikunjcodes/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nikunjcodes/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikunjcodes/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nikunjcodes/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nikunjcodes/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikunjcodes/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nikunjcodes/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nikunjcodes/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikunjcodes/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nikunjcodes/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2530-minimize-maximum-of-array](https://github.com/nikunjcodes/leetcode/tree/master/2530-minimize-maximum-of-array) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikunjcodes/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikunjcodes/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/nikunjcodes/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
