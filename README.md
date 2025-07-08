@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nikunjcodes/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikunjcodes/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nikunjcodes/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nikunjcodes/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nikunjcodes/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikunjcodes/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nikunjcodes/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nikunjcodes/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/nikunjcodes/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nikunjcodes/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikunjcodes/leetcode/tree/master/0210-course-schedule-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nikunjcodes/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikunjcodes/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nikunjcodes/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nikunjcodes/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nikunjcodes/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nikunjcodes/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/nikunjcodes/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunjcodes/leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/nikunjcodes/leetcode/tree/master/0264-ugly-number-ii) |
