@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikunjcodes/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/nikunjcodes/leetcode/tree/master/1380-number-of-closed-islands) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nikunjcodes/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/nikunjcodes/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2276-groups-of-strings](https://github.com/nikunjcodes/leetcode/tree/master/2276-groups-of-strings) |
 ## Graph
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nikunjcodes/leetcode/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/nikunjcodes/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikunjcodes/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nikunjcodes/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikunjcodes/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nikunjcodes/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikunjcodes/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
