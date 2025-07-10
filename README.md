@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/nikunjcodes/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/nikunjcodes/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nikunjcodes/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/nikunjcodes/leetcode/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nikunjcodes/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nikunjcodes/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/nikunjcodes/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nikunjcodes/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikunjcodes/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/nikunjcodes/leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/nikunjcodes/leetcode/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nikunjcodes/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Binary Search
 |  |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nikunjcodes/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/nikunjcodes/leetcode/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
