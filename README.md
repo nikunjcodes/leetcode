@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikunjcodes/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/nikunjcodes/leetcode/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [3922-minimum-moves-to-reach-target-in-grid](https://github.com/nikunjcodes/leetcode/tree/master/3922-minimum-moves-to-reach-target-in-grid) |
 ## Backtracking
 |  |
 | ------- |
