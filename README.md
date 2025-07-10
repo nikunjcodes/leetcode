@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nikunjcodes/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikunjcodes/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/nikunjcodes/leetcode/tree/master/3321-type-of-triangle) |
+| [3435-block-placement-queries](https://github.com/nikunjcodes/leetcode/tree/master/3435-block-placement-queries) |
 | [3527-alternating-groups-iii](https://github.com/nikunjcodes/leetcode/tree/master/3527-alternating-groups-iii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/nikunjcodes/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nikunjcodes/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3435-block-placement-queries](https://github.com/nikunjcodes/leetcode/tree/master/3435-block-placement-queries) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/nikunjcodes/leetcode/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Dynamic Programming
 |  |
@@ -701,11 +703,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3435-block-placement-queries](https://github.com/nikunjcodes/leetcode/tree/master/3435-block-placement-queries) |
 | [3527-alternating-groups-iii](https://github.com/nikunjcodes/leetcode/tree/master/3527-alternating-groups-iii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3435-block-placement-queries](https://github.com/nikunjcodes/leetcode/tree/master/3435-block-placement-queries) |
 ## Merge Sort
 |  |
 | ------- |
