@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/nikunjcodes/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1009-pancake-sorting](https://github.com/nikunjcodes/leetcode/tree/master/1009-pancake-sorting) |
 | [1020-longest-turbulent-subarray](https://github.com/nikunjcodes/leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1032-satisfiability-of-equality-equations](https://github.com/nikunjcodes/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikunjcodes/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nikunjcodes/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/nikunjcodes/leetcode/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikunjcodes/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/nikunjcodes/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1032-satisfiability-of-equality-equations](https://github.com/nikunjcodes/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikunjcodes/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nikunjcodes/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikunjcodes/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/nikunjcodes/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1032-satisfiability-of-equality-equations](https://github.com/nikunjcodes/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikunjcodes/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/nikunjcodes/leetcode/tree/master/1380-number-of-closed-islands) |
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nikunjcodes/leetcode/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/nikunjcodes/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikunjcodes/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1032-satisfiability-of-equality-equations](https://github.com/nikunjcodes/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nikunjcodes/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikunjcodes/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nikunjcodes/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
