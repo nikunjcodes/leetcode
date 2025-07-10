@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikunjcodes/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nikunjcodes/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
+| [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/nikunjcodes/leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/nikunjcodes/leetcode/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikunjcodes/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nikunjcodes/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nikunjcodes/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/nikunjcodes/leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nikunjcodes/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nikunjcodes/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/nikunjcodes/leetcode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/nikunjcodes/leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Randomized
 |  |
 | ------- |
