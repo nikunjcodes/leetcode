@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/nikunjcodes/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nikunjcodes/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nikunjcodes/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nikunjcodes/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/nikunjcodes/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/nikunjcodes/leetcode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 ## Math
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/nikunjcodes/leetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3548-find-the-count-of-good-integers](https://github.com/nikunjcodes/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/nikunjcodes/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nikunjcodes/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nikunjcodes/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String
 |  |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nikunjcodes/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikunjcodes/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/nikunjcodes/leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nikunjcodes/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Binary Search
 |  |
 | ------- |
