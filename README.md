@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nikunjcodes/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikunjcodes/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/nikunjcodes/leetcode/tree/master/1656-count-good-triplets) |
+| [1706-min-cost-to-connect-all-points](https://github.com/nikunjcodes/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/nikunjcodes/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/nikunjcodes/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1803-average-waiting-time](https://github.com/nikunjcodes/leetcode/tree/master/1803-average-waiting-time) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/nikunjcodes/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nikunjcodes/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1706-min-cost-to-connect-all-points](https://github.com/nikunjcodes/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/nikunjcodes/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2276-groups-of-strings](https://github.com/nikunjcodes/leetcode/tree/master/2276-groups-of-strings) |
 ## Graph
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikunjcodes/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1032-satisfiability-of-equality-equations](https://github.com/nikunjcodes/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nikunjcodes/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1706-min-cost-to-connect-all-points](https://github.com/nikunjcodes/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikunjcodes/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nikunjcodes/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikunjcodes/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -914,4 +917,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nikunjcodes/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/nikunjcodes/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
