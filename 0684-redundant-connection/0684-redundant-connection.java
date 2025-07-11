@@ -1,27 +1,36 @@
 class Solution {
-    public int[] findRedundantConnection(int[][] edges) {
-        int[] nodes = new int[2001];
-        for(int i=0  ; i<nodes.length ; i++)
-            nodes[i] =i;
-        for(int[] edge : edges){
-            int from = edge[0];
-            int to = edge[1];
-            if(find(from,nodes) == find(to,nodes))
-                return edge;
-            union(from , to , nodes);
+    class DSU{
+        int[] parent;
+        public DSU(int n ){
+            parent = new int[n+1];
+            for(int i=0 ; i<=n ; i++){
+                parent[i] = i;
+            }
         }
-        return null;
+        int find(int x){
+            if(parent[x]!=x)
+                parent[x] = find(parent[x]);
+            return parent[x];
+
+        }
+        boolean union(int x , int y){
+            int xr = find(x);
+            int yr = find(y);
+            if(xr==yr)
+                return false;
+            parent[yr] = xr;
+            return true;
+        }
     }
-    int find(int node , int[] nodes){
-        while(node!=nodes[node])
-            node = nodes[node];
-        return node;
-    }
-    void union(int a , int b , int[] nodes){
-        int root1 = find(a,nodes);
-        int root2=  find(b,nodes);
-        if(root1 == root2)
-            return;
-        nodes[root1] = root2;
+    public int[] findRedundantConnection(int[][] edges) {
+        int n = edges.length;
+        DSU dsu = new DSU(n);
+        for(int[] edge : edges){
+            int to = edge[1];
+            int from = edge[0];
+            if(!dsu.union(to,from))
+                return edge;
+        }
+        return edges[0];
     }
 }
