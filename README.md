@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/nikunjcodes/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikunjcodes/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0832-binary-tree-pruning](https://github.com/nikunjcodes/leetcode/tree/master/0832-binary-tree-pruning) |
+| [0854-making-a-large-island](https://github.com/nikunjcodes/leetcode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/nikunjcodes/leetcode/tree/master/0869-similar-string-groups) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/nikunjcodes/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0794-swim-in-rising-water](https://github.com/nikunjcodes/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikunjcodes/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0854-making-a-large-island](https://github.com/nikunjcodes/leetcode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/nikunjcodes/leetcode/tree/master/0869-similar-string-groups) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikunjcodes/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/nikunjcodes/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/nikunjcodes/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/nikunjcodes/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/nikunjcodes/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0854-making-a-large-island](https://github.com/nikunjcodes/leetcode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/nikunjcodes/leetcode/tree/master/0869-similar-string-groups) |
 | [0909-stone-game](https://github.com/nikunjcodes/leetcode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/nikunjcodes/leetcode/tree/master/0917-boats-to-save-people) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/nikunjcodes/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0419-battleships-in-a-board](https://github.com/nikunjcodes/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0794-swim-in-rising-water](https://github.com/nikunjcodes/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0854-making-a-large-island](https://github.com/nikunjcodes/leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/nikunjcodes/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1073-number-of-enclaves](https://github.com/nikunjcodes/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikunjcodes/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -813,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/nikunjcodes/leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/nikunjcodes/leetcode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/nikunjcodes/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0854-making-a-large-island](https://github.com/nikunjcodes/leetcode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/nikunjcodes/leetcode/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/nikunjcodes/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikunjcodes/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
