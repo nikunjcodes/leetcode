@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nikunjcodes/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/nikunjcodes/leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2472-build-a-matrix-with-conditions](https://github.com/nikunjcodes/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nikunjcodes/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nikunjcodes/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2530-minimize-maximum-of-array](https://github.com/nikunjcodes/leetcode/tree/master/2530-minimize-maximum-of-array) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikunjcodes/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/nikunjcodes/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1753-path-with-minimum-effort](https://github.com/nikunjcodes/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2472-build-a-matrix-with-conditions](https://github.com/nikunjcodes/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nikunjcodes/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/nikunjcodes/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/nikunjcodes/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
@@ -854,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/nikunjcodes/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikunjcodes/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nikunjcodes/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2472-build-a-matrix-with-conditions](https://github.com/nikunjcodes/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikunjcodes/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nikunjcodes/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nikunjcodes/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikunjcodes/leetcode/tree/master/0210-course-schedule-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikunjcodes/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/nikunjcodes/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Counting
 |  |
 | ------- |
