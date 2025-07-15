@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/nikunjcodes/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nikunjcodes/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikunjcodes/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/nikunjcodes/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nikunjcodes/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/nikunjcodes/leetcode/tree/master/0133-clone-graph) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/nikunjcodes/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikunjcodes/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nikunjcodes/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/nikunjcodes/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikunjcodes/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nikunjcodes/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nikunjcodes/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nikunjcodes/leetcode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/nikunjcodes/leetcode/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikunjcodes/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikunjcodes/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/nikunjcodes/leetcode/tree/master/0198-house-robber) |
@@ -724,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikunjcodes/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
