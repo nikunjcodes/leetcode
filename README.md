@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/nikunjcodes/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikunjcodes/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nikunjcodes/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/nikunjcodes/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikunjcodes/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2276-groups-of-strings](https://github.com/nikunjcodes/leetcode/tree/master/2276-groups-of-strings) |
 | [2470-removing-stars-from-a-string](https://github.com/nikunjcodes/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikunjcodes/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nikunjcodes/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/nikunjcodes/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2249-count-the-hidden-sequences](https://github.com/nikunjcodes/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nikunjcodes/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2530-minimize-maximum-of-array](https://github.com/nikunjcodes/leetcode/tree/master/2530-minimize-maximum-of-array) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/nikunjcodes/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikunjcodes/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/nikunjcodes/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nikunjcodes/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nikunjcodes/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/nikunjcodes/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nikunjcodes/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/nikunjcodes/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/nikunjcodes/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikunjcodes/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikunjcodes/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
