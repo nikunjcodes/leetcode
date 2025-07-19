@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikunjcodes/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nikunjcodes/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikunjcodes/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/nikunjcodes/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikunjcodes/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nikunjcodes/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/nikunjcodes/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikunjcodes/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/nikunjcodes/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nikunjcodes/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/nikunjcodes/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/nikunjcodes/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikunjcodes/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikunjcodes/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nikunjcodes/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/nikunjcodes/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikunjcodes/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -951,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/nikunjcodes/leetcode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikunjcodes/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## String Matching
 |  |
 | ------- |
