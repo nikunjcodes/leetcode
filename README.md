@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/nikunjcodes/leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/nikunjcodes/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2601-number-of-great-partitions](https://github.com/nikunjcodes/leetcode/tree/master/2601-number-of-great-partitions) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nikunjcodes/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nikunjcodes/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nikunjcodes/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikunjcodes/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nikunjcodes/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2530-minimize-maximum-of-array](https://github.com/nikunjcodes/leetcode/tree/master/2530-minimize-maximum-of-array) |
+| [2601-number-of-great-partitions](https://github.com/nikunjcodes/leetcode/tree/master/2601-number-of-great-partitions) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikunjcodes/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikunjcodes/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
