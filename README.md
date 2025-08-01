@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/nikunjcodes/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nikunjcodes/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/nikunjcodes/leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/nikunjcodes/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/nikunjcodes/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/nikunjcodes/leetcode/tree/master/0264-ugly-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikunjcodes/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikunjcodes/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikunjcodes/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/nikunjcodes/leetcode/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/nikunjcodes/leetcode/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikunjcodes/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/nikunjcodes/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunjcodes/leetcode/tree/master/0213-house-robber-ii) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/nikunjcodes/leetcode/tree/master/0087-scramble-string) |
 | [0126-word-ladder-ii](https://github.com/nikunjcodes/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nikunjcodes/leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/nikunjcodes/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/nikunjcodes/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikunjcodes/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nikunjcodes/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/nikunjcodes/leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikunjcodes/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/nikunjcodes/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/nikunjcodes/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunjcodes/leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/nikunjcodes/leetcode/tree/master/0264-ugly-number-ii) |
@@ -952,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/nikunjcodes/leetcode/tree/master/0139-word-break) |
 | [0930-all-possible-full-binary-trees](https://github.com/nikunjcodes/leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/nikunjcodes/leetcode/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikunjcodes/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -962,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/nikunjcodes/leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/nikunjcodes/leetcode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikunjcodes/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## String Matching
